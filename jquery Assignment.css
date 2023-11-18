@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+button{
+    background: darkred;
+    color: #fff;
+    width: 200px;
+    height: 35px;
+    border: none;
+    text-align: center;
+    margin: 25px auto 0 auto;
+    cursor: pointer;
+}
+
+img{
+    margin: 25px auto;
+    display: block;
+    clear: both;
+    text-align: center;
+}
